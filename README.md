@@ -1,16 +1,30 @@
-## Hi there 👋
+# Heloo there, I'm Berihun Tessema Tarekegn 👋
 
-<!--
-**Berihun101/Berihun101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a 4th year Computer Science student specialize in web development and passionate about Artificial Intelligence and Machine Learning. I enjoy solving problems and building projects that make an impact.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out Project on my https://github.com/Berihun101.
+
+## 🛠 Skills
+- Programming Languages: Python, javascript, java
+- front-end Development: Next.js, React, Tailwind CSS, HTML, CSS, Bootstrap
+- Backend Development: Django, Node.js, Express
+- Database: PostgreSQL, SQL
+
+## Portfolio
+
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/berihun-tarekegn-45b027252/)
+- [telegram](https://t.me/Find_me_one)
+- [Email](taberihun07@gmail.com)
+
+## 🤝 Connect
+Let's connect and create something great together!
+
+code it love it
+
+
+
