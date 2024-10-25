@@ -14,7 +14,7 @@ Check out Project on my https://github.com/Berihun101.
 - Database: PostgreSQL, SQL
 
 ## Portfolio
-https://berihun101.github.io/Portfolio-updated/
+https://portfolio-nine-sage-94.vercel.app/
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/berihun-tarekegn-45b027252/)
